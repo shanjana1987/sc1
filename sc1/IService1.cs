@@ -21,6 +21,7 @@ namespace sc1
         [OperationContract]
         double Multiply(double a, double b);
         [OperationContract]
+
         double Divide(double a, double b);
 
     }
